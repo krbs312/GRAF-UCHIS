@@ -1,0 +1,8 @@
+MAPDATA
+Player|player|0,0,0|1,1,1|0,0,255||true|true|up|||
+END
+TASKDATA
+Переместить игрока в точку (3,2)
+END
+TASKOGRANICH
+END

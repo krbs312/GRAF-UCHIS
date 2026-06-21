@@ -1,0 +1,8 @@
+MAPDATA
+Cube|mycube|0,0,0|1,1,1|255,0,0||true|true||||
+END
+TASKDATA
+Изменить цвет куба на синий и вывести его имя
+END
+TASKOGRANICH
+END

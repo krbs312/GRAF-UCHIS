@@ -1,0 +1,10 @@
+MAPDATA
+Buttongi|button|0,0,0|1,1,1|255,0,0||true|false|||false
+Redstone|rs|1,0,0|1,1,1|255,0,0||true|false||||
+Redstonedust|dust|2,0,0|1,1,1|128,128,128||true|false|||false
+END
+TASKDATA
+При активации кнопки красная пыль загорается (state = true)
+END
+TASKOGRANICH
+END

@@ -1,0 +1,8 @@
+MAPDATA
+Player|player|0,0,0|1,1,1|0,0,255||true|true|right|||
+END
+TASKDATA
+Сделать 5 шагов вправо с помощью цикла for
+END
+TASKOGRANICH
+END
