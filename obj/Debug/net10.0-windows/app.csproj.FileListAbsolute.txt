@@ -1,0 +1,28 @@
+C:\Users\krbs3\Desktop\diplom\app\bin\Debug\net10.0-windows\app.exe
+C:\Users\krbs3\Desktop\diplom\app\bin\Debug\net10.0-windows\app.deps.json
+C:\Users\krbs3\Desktop\diplom\app\bin\Debug\net10.0-windows\app.runtimeconfig.json
+C:\Users\krbs3\Desktop\diplom\app\bin\Debug\net10.0-windows\app.dll
+C:\Users\krbs3\Desktop\diplom\app\bin\Debug\net10.0-windows\app.pdb
+C:\Users\krbs3\Desktop\diplom\app\obj\Debug\net10.0-windows\app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krbs3\Desktop\diplom\app\obj\Debug\net10.0-windows\app.AssemblyInfoInputs.cache
+C:\Users\krbs3\Desktop\diplom\app\obj\Debug\net10.0-windows\app.AssemblyInfo.cs
+C:\Users\krbs3\Desktop\diplom\app\obj\Debug\net10.0-windows\app.csproj.CoreCompileInputs.cache
+C:\Users\krbs3\Desktop\diplom\app\obj\Debug\net10.0-windows\app.dll
+C:\Users\krbs3\Desktop\diplom\app\obj\Debug\net10.0-windows\refint\app.dll
+C:\Users\krbs3\Desktop\diplom\app\obj\Debug\net10.0-windows\app.pdb
+C:\Users\krbs3\Desktop\diplom\app\obj\Debug\net10.0-windows\app.genruntimeconfig.cache
+C:\Users\krbs3\Desktop\diplom\app\obj\Debug\net10.0-windows\ref\app.dll
+C:\Users\krbs3\Desktop\diplom — копия\app\obj\Debug\net10.0-windows\app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krbs3\Desktop\diplom — копия\app\obj\Debug\net10.0-windows\app.AssemblyInfoInputs.cache
+C:\Users\krbs3\Desktop\diplom — копия\app\obj\Debug\net10.0-windows\app.AssemblyInfo.cs
+C:\Users\krbs3\Desktop\diplom — копия\app\obj\Debug\net10.0-windows\app.csproj.CoreCompileInputs.cache
+C:\Users\krbs3\Desktop\diplom — копия\app\obj\Debug\net10.0-windows\app.dll
+C:\Users\krbs3\Desktop\diplom — копия\app\obj\Debug\net10.0-windows\refint\app.dll
+C:\Users\krbs3\Desktop\diplom — копия\app\obj\Debug\net10.0-windows\app.pdb
+C:\Users\krbs3\Desktop\diplom — копия\app\bin\Debug\net10.0-windows\app.exe
+C:\Users\krbs3\Desktop\diplom — копия\app\bin\Debug\net10.0-windows\app.deps.json
+C:\Users\krbs3\Desktop\diplom — копия\app\bin\Debug\net10.0-windows\app.runtimeconfig.json
+C:\Users\krbs3\Desktop\diplom — копия\app\bin\Debug\net10.0-windows\app.dll
+C:\Users\krbs3\Desktop\diplom — копия\app\bin\Debug\net10.0-windows\app.pdb
+C:\Users\krbs3\Desktop\diplom — копия\app\obj\Debug\net10.0-windows\app.genruntimeconfig.cache
+C:\Users\krbs3\Desktop\diplom — копия\app\obj\Debug\net10.0-windows\ref\app.dll
