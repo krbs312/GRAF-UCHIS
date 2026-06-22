@@ -1,8 +1,0 @@
-MAPDATA
-CubeText|textcube|0,0,0|1,1,1|255,255,255||true|true||Привет||
-END
-TASKDATA
-Установить текст «Привет» и вывести его
-END
-TASKOGRANICH
-END

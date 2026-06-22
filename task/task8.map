@@ -1,9 +1,0 @@
-MAPDATA
-Player|player|0,0,0|1,1,1|0,0,255||true|true|right|||
-Wall|wall|4,0,0|1,1,1|128,128,128||true|false|||left
-END
-TASKDATA
-Двигаться вперёд, пока не встретится стена, затем вывести "Стена!"
-END
-TASKOGRANICH
-END

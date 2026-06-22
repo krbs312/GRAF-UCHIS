@@ -1,8 +1,0 @@
-MAPDATA
-Player|player|0,0,0|1,1,1|0,0,255||true|true|up|||
-END
-TASKDATA
-Определить функцию moveSquare, которая рисует квадрат со стороной size, вызвать её для 3 и 5
-END
-TASKOGRANICH
-END

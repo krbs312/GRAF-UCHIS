@@ -1,9 +1,0 @@
-MAPDATA
-Buttongi|button|0,0,0|1,1,1|255,0,0||true|false|||false
-Lamp|lamp|1,0,0|1,1,1|128,128,128||true|false|||false
-END
-TASKDATA
-При активации кнопки (запуске её скрипта) лампа загорается (становится жёлтой)
-END
-TASKOGRANICH
-END

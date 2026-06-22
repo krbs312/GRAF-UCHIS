@@ -1,8 +1,0 @@
-MAPDATA
-Player|player|1,2,0|1,1,1|0,0,255||true|true|up|||
-END
-TASKDATA
-Вывести текущую позицию, затем переместиться на (x+2, y+3)
-END
-TASKOGRANICH
-END
